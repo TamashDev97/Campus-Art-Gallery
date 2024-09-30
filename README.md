@@ -1,8 +1,6 @@
 
 # Campus Art Gallery
-
-Static website template developed by TamashDev, the website template it's about a Museum Gallery. The template was designed for an exercise to review the subjects learned on Campuslands Bootcamp.
-
+This project is a simple, interactive museum website featuring smooth animations, a well-structured homepage, and organized styling. The website is built using HTML, CSS, and JavaScript.
 ## Technologies
 The technologies used on this project are:
 - JavaScript
@@ -12,7 +10,6 @@ Libraries:
 - Skel
 - Scrollex
 - Font Awesome
-
 ## Features
 This project has some visual and responsive features implemented.
 - Skel: Library used to apply responsive design into the file, allowing to make the site more readable on a large list of devices.
